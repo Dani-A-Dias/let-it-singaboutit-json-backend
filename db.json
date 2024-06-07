@@ -1,5 +1,134 @@
 {
-"projects": [
+
+    /********************SONGS ********************/
+    
+"songs": [
+    
+  {
+    "id": "1",
+    "image": "https://static.wikia.nocookie.net/agk/images/1/18/21499dba0eec71730fdaa0534a82e163.jpg/revision/latest?cb=20210511185219",
+    "song": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "decade": "1980",
+    "lyrics": "Lyrics Never Gonna Give You Up",
+    "genre": "Pop",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "isFavorite": false,
+    "uploadedBy": {
+      "userId": "",
+      "username": "",
+      "profileImage": ""
+    }
+  },
+
+  {
+    "id": "2",
+    "image": "https://i.pinimg.com/474x/ba/bf/af/babfafa64652fbcd5f34298a2cd43102.jpg",
+    "song": "Girls Just Want to Have Fun",
+    "artist": "Cindy Lauper",
+    "decade": "1980",
+    "lyrics": "Lyrics Girls Just Want to Have Fun",
+    "genre": "Pop",
+    "videoUrl": "https://www.youtube.com/watch?v=PIb6AZdTr-A",
+    "isFavorite": false,
+    "uploadedBy": {
+      "userId": "",
+      "username": "",
+      "profileImage": ""
+    }
+  },
+
+  {
+    "id": "3",
+    "image": "https://media.vanityfair.com/photos/5e82316b52ad2c00089f5009/16:9/w_1280,c_limit/Backstreet-Boys-Coronavirus.jpg",
+    "song": "I Want It That Way",
+    "artist": "Backstreet Boys",
+    "decade": "1990",
+    "lyrics": "Lyrics I Want It That Way",
+    "genre": "Pop",
+    "videoUrl": "https://www.youtube.com/watch?v=4fndeDfaWCg",
+    "isFavorite": false,
+    "uploadedBy": {
+      "userId": "",
+      "username": "",
+      "profileImage": ""
+    }
+  },
+
+  {
+    "id": "4",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIk_b6Bb8YO7gGDZbtE89_Z3Yp_3nsLHabGw&s",
+    "song": "Mr. Jones",
+    "artist": "Counting Crows",
+    "decade": "1990",
+    "lyrics": "Lyrics Mr. Jones",
+    "genre": "Pop Rock",
+    "videoUrl": "https://www.youtube.com/watch?v=gGdGFtwCNBE",
+    "isFavorite": false,
+    "uploadedBy": {
+      "userId": "",
+      "username": "",
+      "profileImage": ""
+    }
+  },
+ 
+  {
+    "id": "7",
+    "image": "https://www.brisant.de/saengerin-adele-102_v-variantBig1x1_w-1280_zc-3061602c.jpg?version=34313",
+    "song": "Rolling in the Deep",
+    "artist": "Adele",
+    "decade": "2010",
+     "lyrics": "Lyrics Rolling in the Deep",
+    "genre": "Pop",
+    "videoUrl": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+    "isFavorite": false,
+    "uploadedBy": {
+      "userId": "",
+      "username": "",
+      "profileImage": ""
+    }
+  },
+
+
+  {
+    "id": "8",
+    "image": "https://ninajerzy.org/wp-content/uploads/2023/11/001_galaxy_x_bts_z_flip4_group.jpg",
+    "song": "Dynamite",
+    "artist": "BTS",
+    "decade": "2010",
+    "lyrics": "Lyrics Dynamite",
+    "genre": "K-Pop",
+    "videoUrl": "https://www.youtube.com/watch?v=gdZLi9oWNZg",
+    "isFavorite": false,
+    "uploadedBy": {
+      "userId": "",
+      "username": "",
+      "profileImage": ""
+    }
+  }
+
+
+  ],
+
+
+  /********************USERS********************/
+  
+  "users": [
+    {
+      "id": 1,
+      "title": "Module 2 Project",
+      "description": "Module 2 project - Integrate a React app with backend.",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Module 3 Project",
+      "description": "Create a full-stack application using MERN stack.",
+      "userId": 1
+    }
+  ],
+
+  "projects": [
     {
       "id": 1,
       "title": "Module 2 Project",
@@ -14,3 +143,7 @@
     }
   ]
 }
+
+
+
+
