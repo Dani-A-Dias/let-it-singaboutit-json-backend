@@ -1,559 +1,549 @@
-{   
-    "songs": [
-      {
-        "id": "1",
-        "image": "https://people.com/thmb/JGjxumyykHNuBoeyuELz33P2uHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x309:721x311)/rick-astley-recreation-never-gonna-give-you-up-081922-1-909d277568c34a599c27fa7503ce7a4c.jpg",
-        "song": "Never Gonna Give You Up",
-        "artist": "Rick Astley",
-        "album": "Whenever You Need Somebody",
-        "decade": "80's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "Rick Astley retired from music at age 27 to spend more time with his family.",
-          "aboutSong": "The song became an internet sensation as part of the 'Rickrolling' meme.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/9iQH7g_zKl8?si=Lhp0Ekyfw04wOMdR",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
+{
+  "songs": [
+    {
+      "id": "1",
+      "image": "https://people.com/thmb/JGjxumyykHNuBoeyuELz33P2uHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x309:721x311)/rick-astley-recreation-never-gonna-give-you-up-081922-1-909d277568c34a599c27fa7503ce7a4c.jpg",
+      "song": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "album": "Whenever You Need Somebody",
+      "decade": "80's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Rick Astley retired from music at age 27 to spend more time with his family.",
+        "aboutSong": "The song became an internet sensation as part of the 'Rickrolling' meme.",
+        "profileImage": ""
       },
-      {
-        "id": "2",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAod41UJ62A6WlTrgGAHoXYv-5Kx3794uAjg&s",
-        "song": "Like a Prayer",
-        "artist": "Madonna",
-        "album": "Like a Prayer",
-        "decade": "80's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "Madonna has been referred to as the 'Queen of Pop' since the 1980s.",
-          "aboutSong": "The song's music video was controversial for its religious imagery.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/mTW-Ut83PPU?si=g5L6PRh2yROqnET6",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "3",
-        "image": "https://images.hellomagazine.com/horizon/landscape/fc8dff605b62-michael-jackson-2009-press-conference.jpg",
-        "song": "Thriller",
-        "artist": "Michael Jackson",
-        "album": "Thriller",
-        "decade": "80's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "Michael Jackson is known as the 'King of Pop'.",
-          "aboutSong": "The 'Thriller' music video is one of the most famous of all time.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/3pZ2Bn8G24E?si=xG6VtMr5DCk5M1YU",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "4",
-        "image": "https://people.com/thmb/9fGTuNVdQM_jtvUZ63pOT8Pbg3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(990x532:992x534)/bon-jovi-1-851d1c9eb34b4a65a538f0fdaac61f55.jpg",
-        "song": "Livin' on a Prayer",
-        "artist": "Bon Jovi",
-        "album": "Slippery When Wet",
-        "decade": "80's",
-        "genre": "Rock",
-        "trivia": {
-          "aboutArtist": "Bon Jovi's name comes from lead singer Jon Bon Jovi.",
-          "aboutSong": "The song was ranked number one on VH1's 100 Greatest Songs of the '80s.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/Ep6G3P2v5ZA?si=lDHnjx67cdVdNoh2",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "5",
-        "image": "https://img.nzz.ch/2021/10/12/cb913be4-9a16-41f3-a946-12f7668e5a47.jpeg?quality=75&auto=webp?width=1200&height=813&fit=crop&quality=75&auto=webp",
-        "song": "Take On Me",
-        "artist": "A-ha",
-        "album": "Hunting High and Low",
-        "decade": "80's",
-        "genre": "Synth-pop",
-        "trivia": {
-          "aboutArtist": "A-ha is a Norwegian band, and 'Take On Me' is their most famous song.",
-          "aboutSong": "The song's music video features a mix of live-action and pencil-sketch animation.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/bC4ER15Hj10?si=NsKSjrtRMjTS7POc",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "6",
-        "image": "https://www.eluniversal.com.mx/resizer/Nn3nyXIY7znglrEjFwtuNZYD1zI=/1100x666/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/GXNOQPZBZJHMZA2Z6GAY5CQNT4.jpg",
-        "song": "Girls Just Want to Have Fun",
-        "artist": "Cyndi Lauper",
-        "album": "She's So Unusual",
-        "decade": "80's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "Cyndi Lauper is known for her eclectic fashion sense and dyed hair.",
-          "aboutSong": "The song was originally written and recorded by a man, Robert Hazard.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/acNC4PEHdrk?si=HgryAA4cNfwMTpHr",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "7",
-        "image": "https://images-prod.dazeddigital.com/1500/azure/dazed-prod/1220/9/1229138.jpg",
-        "song": "Smells Like Teen Spirit",
-        "artist": "Nirvana",
-        "album": "Nevermind",
-        "decade": "90's",
-        "genre": "Grunge",
-        "trivia": {
-          "aboutArtist": "Nirvana's lead singer Kurt Cobain was also a talented visual artist.",
-          "aboutSong": "The song's success helped bring grunge music and alternative rock to a mainstream audience.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/z6tIMfDnwhs?si=5Tt4bc8cpm9npI15",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "8",
-        "image": "",
-        "song": "I Will Always Love You",
-        "artist": "Whitney Houston",
-        "album": "The Bodyguard: Original Soundtrack Album",
-        "decade": "90's",
-        "genre": "R&B",
-        "trivia": {
-          "aboutArtist": "Whitney Houston's rendition of the national anthem at Super Bowl XXV is considered one of the best of all time.",
-          "aboutSong": "The song was originally written and recorded by Dolly Parton in 1973.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/8kotNQ07ZEw?si=1cY4f95UhSvnas71",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "9",
-        "image": "",
-        "song": "Waterfalls",
-        "artist": "TLC",
-        "album": "CrazySexyCool",
-        "decade": "90's",
-        "genre": "R&B",
-        "trivia": {
-          "aboutArtist": "TLC is the best-selling American girl group of all time.",
-          "aboutSong": "The song addresses social issues like HIV, drugs, and violence.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/MBfYXMw-NvI?si=dnb6zrmhTBmSev8L",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "10",
-        "image": "",
-        "song": "...Baby One More Time",
-        "artist": "Britney Spears",
-        "album": "...Baby One More Time",
-        "decade": "90's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "Britney Spears' first job was as a child actor on the TV show The Mickey Mouse Club.",
-          "aboutSong": "The song was originally offered to the group TLC but they turned it down.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/PYpU2TxIzAM?si=yQavboz7C7MHZVNn",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "11",
-        "image": "",
-        "song": "I Want It That Way",
-        "artist": "Backstreet Boys",
-        "album": "Millennium",
-        "decade": "90's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "The Backstreet Boys are one of the best-selling boy bands in history.",
-          "aboutSong": "The song was written by Max Martin and Andreas Carlsson, two famous Swedish songwriters.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/kXXQVir7yTw?si=QhcnrPDj0WuKODhI",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "12",
-        "image": "",
-        "song": "Crazy in Love",
-        "artist": "Beyoncé featuring Jay-Z",
-        "album": "Dangerously in Love",
-        "decade": "00's",
-        "genre": "R&B",
-        "trivia": {
-          "aboutArtist": "Beyoncé began her music career as a member of Destiny's Child.",
-          "aboutSong": "The song features a prominent sample from The Chi-Lites' 1970 song 'Are You My Woman (Tell Me So)'.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/Po2wzSJPTBk?si=VEixNp3G2UT4QN64",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "13",
-        "image": "",
-        "song": "Lose Yourself",
-        "artist": "Eminem",
-        "album": "8 Mile: Music from and Inspired by the Motion Picture",
-        "decade": "00's",
-        "genre": "Hip Hop",
-        "trivia": {
-          "aboutArtist": "Eminem's real name is Marshall Bruce Mathers III.",
-          "aboutSong": "This song won the Academy Award for Best Original Song in 2003.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/F-p2BQ4H1nA?si=DK3VFJb02rkJW36_",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "14",
-        "image": "",
-        "song": "Hey Ya!",
-        "artist": "OutKast",
-        "album": "Speakerboxxx/The Love Below",
-        "decade": "00's",
-        "genre": "Hip Hop",
-        "trivia": {
-          "aboutArtist": "OutKast is known for their eclectic style and unique sound.",
-          "aboutSong": "The song's chorus was inspired by The Beatles' song 'Hey Jude'.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/LGnu886xzJY?si=zvS1PMO_DjAmw12S",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "15",
-        "image": "",
-        "song": "Poker Face",
-        "artist": "Lady Gaga",
-        "album": "The Fame",
-        "decade": "00's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "Lady Gaga's real name is Stefani Joanne Angelina Germanotta.",
-          "aboutSong": "The song is about bisexuality and was inspired by Gaga's personal experiences.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/kTu2QPghqZU?si=ig-rqPRUq5QtWZc2",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "16",
-        "image": "",
-        "song": "Mr. Jones",
-        "artist": "Counting Crows",
-        "album": "August and Everything After",
-        "decade": "90's",
-        "genre": "Rock",
-        "trivia": {
-          "aboutArtist": "Counting Crows' lead singer, Adam Duritz, has dissociative identity disorder.",
-          "aboutSong": "The song was inspired by the lead singer's friend, Marty Jones.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/8OHSFx1C7hI?si=zJNvDeOelkjkqT_z",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "17",
-        "image": "",
-        "song": "Rolling in the Deep",
-        "artist": "Adele",
-        "album": "21",
-        "decade": "10's",
-        "genre": "Soul",
-        "trivia": {
-          "aboutArtist": "Adele was discovered through MySpace.",
-          "aboutSong": "The song won Grammy Awards for Record of the Year and Song of the Year.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/B3O1OlTWXSA?si=X7OL3vqDgzmDMqYw",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "18",
-        "image": "",
-        "song": "Uptown Funk",
-        "artist": "Mark Ronson featuring Bruno Mars",
-        "album": "Uptown Special",
-        "decade": "10's",
-        "genre": "Funk",
-        "trivia": {
-          "aboutArtist": "Mark Ronson is a renowned music producer and DJ.",
-          "aboutSong": "The song's retro sound and style were influenced by 1980s funk music.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/F3R6eJKAz4M?si=S1d5cutZU5IgXw5I",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "19",
-        "image": "",
-        "song": "Shape of You",
-        "artist": "Ed Sheeran",
-        "album": "÷ (Divide)",
-        "decade": "10's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "Ed Sheeran was homeless for a period before his music career took off.",
-          "aboutSong": "The song was originally intended for Rihanna.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/o71_MatpYV0?si=Oi6zWEj6su5zFj2E",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "20",
-        "image": "",
-        "song": "Blinding Lights",
-        "artist": "The Weeknd",
-        "album": "After Hours",
-        "decade": "20's",
-        "genre": "Synthwave",
-        "trivia": {
-          "aboutArtist": "The Weeknd's real name is Abel Tesfaye.",
-          "aboutSong": "The song is inspired by 1980s music and film soundtracks.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/Cj4hcXZs3Lc?si=l9sm3n4LTXMcfNDO",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "21",
-        "image": "",
-        "song": "Levitating",
-        "artist": "Dua Lipa",
-        "album": "Future Nostalgia",
-        "decade": "20's",
-        "genre": "Disco-pop",
-        "trivia": {
-          "aboutArtist": "Dua Lipa's name means 'Love' in Albanian.",
-          "aboutSong": "The song's music video features a futuristic, space-themed dance party.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/nK9hD9_SAdU?si=xp4A-UU1VOUWCp_S",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "22",
-        "image": "",
-        "song": "Dynamite",
-        "artist": "BTS",
-        "album": "Be",
-        "decade": "20's",
-        "genre": "K-pop",
-        "trivia": {
-          "aboutArtist": "BTS is the first K-pop group to top the US Billboard Hot 100.",
-          "aboutSong": "'Dynamite' is BTS's first song entirely in English.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/HwDql3QzStk?si=ZhnovxTp5_rsUpdj",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "23",
-        "image": "",
-        "song": "Royals",
-        "artist": "Lorde",
-        "album": "Pure Heroine",
-        "decade": "10's",
-        "genre": "Electropop",
-        "trivia": {
-          "aboutArtist": "Lorde was only 16 years old when she released 'Royals'.",
-          "aboutSong": "The song critiques the lavish lifestyles of contemporary pop and hip-hop artists.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/1Gv5AFz8HE0?si=5JSd2Xq0xGXQ92P6",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "24",
-        "image": "",
-        "song": "Flowers",
-        "artist": "Miley Cyrus",
-        "album": "Endless Summer Vacation",
-        "decade": "20's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "Miley Cyrus is the daughter of country singer Billy Ray Cyrus.",
-          "aboutSong": "The song is rumored to be about Miley's ex-husband, Liam Hemsworth.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/fO4wsNsXtDg?si=3RlTJiJQBK08x-JU",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
-      },
-      {
-        "id": "25",
-        "image": "",
-        "song": "As It Was",
-        "artist": "Harry Styles",
-        "album": "Harry's House",
-        "decade": "20's",
-        "genre": "Pop",
-        "trivia": {
-          "aboutArtist": "Harry Styles was a member of the boy band One Direction.",
-          "aboutSong": "The song's music video features a striking choreography with a giant turntable.",
-          "profileImage": ""
-        },
-        "videoUrl": "https://www.youtube.com/embed/JyKfmLkq3BU?si=jsklTuKJQQzPehj-",
-        "isFavorite": false,
-        "uploadedBy": {
-          "userId": "",
-          "username": "",
-          "profileImage": ""
-        }
+      "videoUrl": "https://www.youtube.com/embed/9iQH7g_zKl8?si=Lhp0Ekyfw04wOMdR",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
       }
-    ]
-  ,
- 
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAod41UJ62A6WlTrgGAHoXYv-5Kx3794uAjg&s",
+      "song": "Like a Prayer",
+      "artist": "Madonna",
+      "album": "Like a Prayer",
+      "decade": "80's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Madonna has been referred to as the 'Queen of Pop' since the 1980s.",
+        "aboutSong": "The song's music video was controversial for its religious imagery.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/mTW-Ut83PPU?si=g5L6PRh2yROqnET6",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "3",
+      "image": "https://images.hellomagazine.com/horizon/landscape/fc8dff605b62-michael-jackson-2009-press-conference.jpg",
+      "song": "Thriller",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "decade": "80's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Michael Jackson is known as the 'King of Pop'.",
+        "aboutSong": "The 'Thriller' music video is one of the most famous of all time.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/3pZ2Bn8G24E?si=xG6VtMr5DCk5M1YU",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "4",
+      "image": "https://people.com/thmb/9fGTuNVdQM_jtvUZ63pOT8Pbg3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(990x532:992x534)/bon-jovi-1-851d1c9eb34b4a65a538f0fdaac61f55.jpg",
+      "song": "Livin' on a Prayer",
+      "artist": "Bon Jovi",
+      "album": "Slippery When Wet",
+      "decade": "80's",
+      "genre": "Rock",
+      "trivia": {
+        "aboutArtist": "Bon Jovi's name comes from lead singer Jon Bon Jovi.",
+        "aboutSong": "The song was ranked number one on VH1's 100 Greatest Songs of the '80s.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/Ep6G3P2v5ZA?si=lDHnjx67cdVdNoh2",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "5",
+      "image": "https://img.nzz.ch/2021/10/12/cb913be4-9a16-41f3-a946-12f7668e5a47.jpeg?quality=75&auto=webp?width=1200&height=813&fit=crop&quality=75&auto=webp",
+      "song": "Take On Me",
+      "artist": "A-ha",
+      "album": "Hunting High and Low",
+      "decade": "80's",
+      "genre": "Synth-pop",
+      "trivia": {
+        "aboutArtist": "A-ha is a Norwegian band, and 'Take On Me' is their most famous song.",
+        "aboutSong": "The song's music video features a mix of live-action and pencil-sketch animation.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/bC4ER15Hj10?si=NsKSjrtRMjTS7POc",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "6",
+      "image": "https://www.eluniversal.com.mx/resizer/Nn3nyXIY7znglrEjFwtuNZYD1zI=/1100x666/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/GXNOQPZBZJHMZA2Z6GAY5CQNT4.jpg",
+      "song": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper",
+      "album": "She's So Unusual",
+      "decade": "80's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Cyndi Lauper is known for her eclectic fashion sense and dyed hair.",
+        "aboutSong": "The song was originally written and recorded by a man, Robert Hazard.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/acNC4PEHdrk?si=HgryAA4cNfwMTpHr",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "7",
+      "image": "https://images-prod.dazeddigital.com/1500/azure/dazed-prod/1220/9/1229138.jpg",
+      "song": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "decade": "90's",
+      "genre": "Grunge",
+      "trivia": {
+        "aboutArtist": "Nirvana's lead singer Kurt Cobain was also a talented visual artist.",
+        "aboutSong": "The song's success helped bring grunge music and alternative rock to a mainstream audience.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/z6tIMfDnwhs?si=5Tt4bc8cpm9npI15",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "8",
+      "image": "",
+      "song": "I Will Always Love You",
+      "artist": "Whitney Houston",
+      "album": "The Bodyguard: Original Soundtrack Album",
+      "decade": "90's",
+      "genre": "R&B",
+      "trivia": {
+        "aboutArtist": "Whitney Houston's rendition of the national anthem at Super Bowl XXV is considered one of the best of all time.",
+        "aboutSong": "The song was originally written and recorded by Dolly Parton in 1973.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/8kotNQ07ZEw?si=1cY4f95UhSvnas71",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "9",
+      "image": "",
+      "song": "Waterfalls",
+      "artist": "TLC",
+      "album": "CrazySexyCool",
+      "decade": "90's",
+      "genre": "R&B",
+      "trivia": {
+        "aboutArtist": "TLC is the best-selling American girl group of all time.",
+        "aboutSong": "The song addresses social issues like HIV, drugs, and violence.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/MBfYXMw-NvI?si=dnb6zrmhTBmSev8L",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "10",
+      "image": "",
+      "song": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "album": "...Baby One More Time",
+      "decade": "90's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Britney Spears' first job was as a child actor on the TV show The Mickey Mouse Club.",
+        "aboutSong": "The song was originally offered to the group TLC but they turned it down.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/PYpU2TxIzAM?si=yQavboz7C7MHZVNn",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "11",
+      "image": "",
+      "song": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "album": "Millennium",
+      "decade": "90's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "The Backstreet Boys are one of the best-selling boy bands in history.",
+        "aboutSong": "The song was written by Max Martin and Andreas Carlsson, two famous Swedish songwriters.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/kXXQVir7yTw?si=QhcnrPDj0WuKODhI",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "12",
+      "image": "",
+      "song": "Crazy in Love",
+      "artist": "Beyoncé featuring Jay-Z",
+      "album": "Dangerously in Love",
+      "decade": "00's",
+      "genre": "R&B",
+      "trivia": {
+        "aboutArtist": "Beyoncé began her music career as a member of Destiny's Child.",
+        "aboutSong": "The song features a prominent sample from The Chi-Lites' 1970 song 'Are You My Woman (Tell Me So)'.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/Po2wzSJPTBk?si=VEixNp3G2UT4QN64",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "13",
+      "image": "",
+      "song": "Lose Yourself",
+      "artist": "Eminem",
+      "album": "8 Mile: Music from and Inspired by the Motion Picture",
+      "decade": "00's",
+      "genre": "Hip Hop",
+      "trivia": {
+        "aboutArtist": "Eminem's real name is Marshall Bruce Mathers III.",
+        "aboutSong": "This song won the Academy Award for Best Original Song in 2003.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/F-p2BQ4H1nA?si=DK3VFJb02rkJW36_",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "14",
+      "image": "",
+      "song": "Hey Ya!",
+      "artist": "OutKast",
+      "album": "Speakerboxxx/The Love Below",
+      "decade": "00's",
+      "genre": "Hip Hop",
+      "trivia": {
+        "aboutArtist": "OutKast is known for their eclectic style and unique sound.",
+        "aboutSong": "The song's chorus was inspired by The Beatles' song 'Hey Jude'.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/LGnu886xzJY?si=zvS1PMO_DjAmw12S",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "15",
+      "image": "",
+      "song": "Poker Face",
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "decade": "00's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Lady Gaga's real name is Stefani Joanne Angelina Germanotta.",
+        "aboutSong": "The song is about bisexuality and was inspired by Gaga's personal experiences.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/kTu2QPghqZU?si=ig-rqPRUq5QtWZc2",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "16",
+      "image": "",
+      "song": "Mr. Jones",
+      "artist": "Counting Crows",
+      "album": "August and Everything After",
+      "decade": "90's",
+      "genre": "Rock",
+      "trivia": {
+        "aboutArtist": "Counting Crows' lead singer, Adam Duritz, has dissociative identity disorder.",
+        "aboutSong": "The song was inspired by the lead singer's friend, Marty Jones.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/8OHSFx1C7hI?si=zJNvDeOelkjkqT_z",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "17",
+      "image": "",
+      "song": "Rolling in the Deep",
+      "artist": "Adele",
+      "album": "21",
+      "decade": "10's",
+      "genre": "Soul",
+      "trivia": {
+        "aboutArtist": "Adele was discovered through MySpace.",
+        "aboutSong": "The song won Grammy Awards for Record of the Year and Song of the Year.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/B3O1OlTWXSA?si=X7OL3vqDgzmDMqYw",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "18",
+      "image": "",
+      "song": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "album": "Uptown Special",
+      "decade": "10's",
+      "genre": "Funk",
+      "trivia": {
+        "aboutArtist": "Mark Ronson is a renowned music producer and DJ.",
+        "aboutSong": "The song's retro sound and style were influenced by 1980s funk music.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/F3R6eJKAz4M?si=S1d5cutZU5IgXw5I",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "19",
+      "image": "",
+      "song": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album": "÷ (Divide)",
+      "decade": "10's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Ed Sheeran was homeless for a period before his music career took off.",
+        "aboutSong": "The song was originally intended for Rihanna.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/o71_MatpYV0?si=Oi6zWEj6su5zFj2E",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "20",
+      "image": "",
+      "song": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "decade": "20's",
+      "genre": "Synthwave",
+      "trivia": {
+        "aboutArtist": "The Weeknd's real name is Abel Tesfaye.",
+        "aboutSong": "The song is inspired by 1980s music and film soundtracks.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/Cj4hcXZs3Lc?si=l9sm3n4LTXMcfNDO",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "21",
+      "image": "",
+      "song": "Levitating",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia",
+      "decade": "20's",
+      "genre": "Disco-pop",
+      "trivia": {
+        "aboutArtist": "Dua Lipa's name means 'Love' in Albanian.",
+        "aboutSong": "The song's music video features a futuristic, space-themed dance party.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/nK9hD9_SAdU?si=xp4A-UU1VOUWCp_S",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "22",
+      "image": "",
+      "song": "Dynamite",
+      "artist": "BTS",
+      "album": "Be",
+      "decade": "20's",
+      "genre": "K-pop",
+      "trivia": {
+        "aboutArtist": "BTS is the first K-pop group to top the US Billboard Hot 100.",
+        "aboutSong": "'Dynamite' is BTS's first song entirely in English.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/HwDql3QzStk?si=ZhnovxTp5_rsUpdj",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "23",
+      "image": "",
+      "song": "Royals",
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "decade": "10's",
+      "genre": "Electropop",
+      "trivia": {
+        "aboutArtist": "Lorde was only 16 years old when she released 'Royals'.",
+        "aboutSong": "The song critiques the lavish lifestyles of contemporary pop and hip-hop artists.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/1Gv5AFz8HE0?si=5JSd2Xq0xGXQ92P6",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "24",
+      "image": "",
+      "song": "Flowers",
+      "artist": "Miley Cyrus",
+      "album": "Endless Summer Vacation",
+      "decade": "20's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Miley Cyrus is the daughter of country singer Billy Ray Cyrus.",
+        "aboutSong": "The song is rumored to be about Miley's ex-husband, Liam Hemsworth.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/fO4wsNsXtDg?si=3RlTJiJQBK08x-JU",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "25",
+      "image": "",
+      "song": "As It Was",
+      "artist": "Harry Styles",
+      "album": "Harry's House",
+      "decade": "20's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Harry Styles was a member of the boy band One Direction.",
+        "aboutSong": "The song's music video features a striking choreography with a giant turntable.",
+        "profileImage": ""
+      },
+      "videoUrl": "https://www.youtube.com/embed/JyKfmLkq3BU?si=jsklTuKJQQzPehj-",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    }
+  ],
   "users": [
     {
-      "userId": 1,
+      "id": "1",
       "username": "RavenRockstar",
       "profileImage": "https://i.pinimg.com/originals/00/4a/1c/004a1c19a8cf6fb41bb3bddd6caef647.png",
-      "password":12345
-
-      
+      "password": "12345"
     },
     {
-      "userId": 2,
+      "id": "2",
       "username": "HuffleHarmonizer",
       "profileImage": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/nxlndwyykd2zvmiqanax.jpg",
-      "password":12345
-      
+      "password": "12345"
     },
     {
-      "userId": 3,
+      "id": "3",
       "username": "SingGryffinDiva",
       "profileImage": "https://m.media-amazon.com/images/I/61-ZyevOLIL._AC_UF1000,1000_QL80_.jpg",
-      "password":12345
-      
+      "password": "12345"
     }
   ]
 }
-
-
-
-
