@@ -531,19 +531,35 @@
       "id": "1",
       "username": "RavenRockstar",
       "profileImage": "https://i.pinimg.com/originals/00/4a/1c/004a1c19a8cf6fb41bb3bddd6caef647.png",
-      "password": "12345"
+      "password": "12345",
+      "favorites": []
     },
     {
       "id": "2",
       "username": "HuffleHarmonizer",
       "profileImage": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/nxlndwyykd2zvmiqanax.jpg",
-      "password": "12345"
+      "password": "12345",
+      "favorites": []
     },
     {
       "id": "3",
       "username": "SingGryffinDiva",
       "profileImage": "https://m.media-amazon.com/images/I/61-ZyevOLIL._AC_UF1000,1000_QL80_.jpg",
-      "password": "12345"
+      "password": "12345",
+      "favorites": []
+    },
+    {
+      "username": "Dani",
+      "password": "2244",
+      "profileImage": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpghttps://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg",
+      "id": "_3Is841",
+      "favorites": [
+        "1",
+        "22",
+        "21",
+        "19",
+        "18"
+      ]
     }
   ]
 }
