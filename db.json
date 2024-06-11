@@ -34,7 +34,7 @@
         "aboutArtist": "Madonna has been referred to as the 'Queen of Pop' since the 1980s.",
         "aboutSong": "The song's music video was controversial for its religious imagery."
       },
-      "videoUrl": "https://www.youtube.com/embed/mTW-Ut83PPU?si=g5L6PRh2yROqnET6",
+      "videoUrl": "https://www.youtube.com/embed/hUgoIVt00HU?si=wqK3dEmQgO2XHyYW",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -55,7 +55,7 @@
         "aboutArtist": "Bon Jovi's name comes from lead singer Jon Bon Jovi.",
         "aboutSong": "The song was ranked number one on VH1's 100 Greatest Songs of the '80s."
       },
-      "videoUrl": "https://www.youtube.com/embed/Ep6G3P2v5ZA?si=lDHnjx67cdVdNoh2",
+      "videoUrl": "https://www.youtube.com/embed/aDPeReFoyNA?si=c0tXJW60u17fZX9p",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -76,7 +76,7 @@
         "aboutArtist": "TLC is the best-selling American girl group of all time.",
         "aboutSong": "The song addresses social issues like HIV, drugs, and violence."
       },
-      "videoUrl": "https://www.youtube.com/embed/MBfYXMw-NvI?si=dnb6zrmhTBmSev8L",
+      "videoUrl": "https://www.youtube.com/embed/8EQH7EMH5u8?si=Yq9OEAT932vVL3Mf",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -97,7 +97,7 @@
         "aboutArtist": "Britney Spears' first job was as a child actor on the TV show The Mickey Mouse Club.",
         "aboutSong": "The song was originally offered to the group TLC but they turned it down."
       },
-      "videoUrl": "https://www.youtube.com/embed/PYpU2TxIzAM?si=yQavboz7C7MHZVNn",
+      "videoUrl": "https://www.youtube.com/embed/VcDrr50sF3I?si=3aZNu7BwzuDM1ZdO",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -118,7 +118,7 @@
         "aboutArtist": "The Backstreet Boys are one of the best-selling boy bands in history.",
         "aboutSong": "The song was written by Max Martin and Andreas Carlsson, two famous Swedish songwriters."
       },
-      "videoUrl": "https://www.youtube.com/embed/kXXQVir7yTw?si=QhcnrPDj0WuKODhI",
+      "videoUrl": "https://www.youtube.com/embed/khnQaSMer90?si=yBQ-8kSxBZyIPsf_",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -202,28 +202,7 @@
         "aboutArtist": "Lady Gaga's real name is Stefani Joanne Angelina Germanotta.",
         "aboutSong": "The song is about bisexuality and was inspired by Gaga's personal experiences."
       },
-      "videoUrl": "https://www.youtube.com/embed/kTu2QPghqZU?si=ig-rqPRUq5QtWZc2",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "16",
-      "image": "",
-      "attribution": "",
-      "title": "Mr. Jones",
-      "artist": "Counting Crows",
-      "album": "August and Everything After",
-      "decade": "90's",
-      "genre": "Rock",
-      "trivia": {
-        "aboutArtist": "Counting Crows' lead singer, Adam Duritz, has dissociative identity disorder.",
-        "aboutSong": "The song was inspired by the lead singer's friend, Marty Jones."
-      },
-      "videoUrl": "https://www.youtube.com/embed/8OHSFx1C7hI?si=zJNvDeOelkjkqT_z",
+      "videoUrl": "https://www.youtube.com/embed/hR_A0nAPAF8?si=UbjNkHLSnFIBEi1m",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -286,7 +265,7 @@
         "aboutArtist": "Ed Sheeran was homeless for a period before his music career took off.",
         "aboutSong": "The song was originally intended for Rihanna."
       },
-      "videoUrl": "https://www.youtube.com/embed/o71_MatpYV0?si=Oi6zWEj6su5zFj2E",
+      "videoUrl": "https://www.youtube.com/embed/Sykj3KRNV7U?si=xyyZQ1OuiRVSASI1",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -307,7 +286,7 @@
         "aboutArtist": "The Weeknd's real name is Abel Tesfaye.",
         "aboutSong": "The song is inspired by 1980s music and film soundtracks."
       },
-      "videoUrl": "https://www.youtube.com/embed/Cj4hcXZs3Lc?si=l9sm3n4LTXMcfNDO",
+      "videoUrl": "https://www.youtube.com/embed/GgcyCJEEpbg?si=rzMGmJwb-SixdTXa",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -329,7 +308,7 @@
         "aboutSong": "The song's music video features a futuristic, space-themed dance party.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/nK9hD9_SAdU?si=xp4A-UU1VOUWCp_S",
+      "videoUrl": "https://www.youtube.com/embed/uHHfklqo3Ig?si=EkUcd7ikSgvGSSb1",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -373,7 +352,7 @@
         "aboutSong": "The song critiques the lavish lifestyles of contemporary pop and hip-hop artists.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/1Gv5AFz8HE0?si=5JSd2Xq0xGXQ92P6",
+      "videoUrl": "https://www.youtube.com/embed/17qLteOlEKw?si=kteexjSd8OFitNfw",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -395,7 +374,7 @@
         "aboutSong": "The song is rumored to be about Miley's ex-husband, Liam Hemsworth.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/fO4wsNsXtDg?si=3RlTJiJQBK08x-JU",
+      "videoUrl": "https://www.youtube.com/embed/I2zmcH0x2Wc?si=gTSHcZC1I89n9K2d",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -417,7 +396,7 @@
         "aboutSong": "The song's music video features a striking choreography with a giant turntable.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/JyKfmLkq3BU?si=jsklTuKJQQzPehj-",
+      "videoUrl": "https://www.youtube.com/embed/eiUAyu_gFsY?si=3OyJSvuWlEqZ3ylv",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
