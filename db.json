@@ -781,6 +781,23 @@
         "username": "",
         "profileImage": ""
       }
+      "title": "aaaaaaaa",
+      "artist": "aaaaaaaa",
+      "genre": "aaaaaaaaa",
+      "decade": "aaaaaaaa",
+      "image": "aaaaaaaaaaaaaa",
+      "attribution": "aaaaaaaaaa",
+      "trivia": {
+        "aboutArtist": "aaaaaaaaaaa",
+        "aboutSong": "aaaaaaaaaa"
+      },
+      "videoUrl": "aaaaaaaaaaaaaa",
+      "uploadedBy": {
+        "userId": "_3Is841",
+        "username": "Dani",
+        "profileImage": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpghttps://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg"
+      },
+      "id": "L5jA3Y3"
     }
   ],
   "users": [
