@@ -2,7 +2,7 @@
   "songs": [
     {
       "id": "1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Glasto2023_%28145_of_468%29_%2853009328470%29.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasto2023_%28145_of_468%29_%2853009328470%29.jpg/800px-Glasto2023_%28145_of_468%29_%2853009328470%29.jpg?20230629073959",
       "attribution": "Raph_PH, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "title": "Never Gonna Give You Up",
       "artist": "Rick Astley",
@@ -23,8 +23,8 @@
     },
     {
       "id": "2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Madonna1023_%2821915947438%29.jpg",
-      "attribution": "BBGunBilly -  have you been shot? from Minneapolis, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Madonna1023_%2821915947438%29.jpg/800px-Madonna1023_%2821915947438%29.jpg?20151215170509",
+     "attribution": "BBGunBilly -  have you been shot? from Minneapolis, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "title": "Like a Prayer",
       "artist": "Madonna",
       "album": "Like a Prayer",
@@ -34,28 +34,7 @@
         "aboutArtist": "Madonna has been referred to as the 'Queen of Pop' since the 1980s.",
         "aboutSong": "The song's music video was controversial for its religious imagery."
       },
-      "videoUrl": "https://www.youtube.com/embed/mTW-Ut83PPU?si=g5L6PRh2yROqnET6",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "3",
-      "image": "",
-      "attribution": "",
-      "title": "Thriller",
-      "artist": "Michael Jackson",
-      "album": "Thriller",
-      "decade": "80's",
-      "genre": "Pop",
-      "trivia": {
-        "aboutArtist": "Michael Jackson is known as the 'King of Pop'.",
-        "aboutSong": "The 'Thriller' music video is one of the most famous of all time."
-      },
-      "videoUrl": "https://www.youtube.com/embed/3pZ2Bn8G24E?si=xG6VtMr5DCk5M1YU",
+      "videoUrl": "https://www.youtube.com/embed/hUgoIVt00HU?si=wqK3dEmQgO2XHyYW",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -65,7 +44,7 @@
     },
     {
       "id": "4",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bon_Jovi_at_Madison_Square_Garden.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bon_Jovi_at_Madison_Square_Garden.jpg/800px-Bon_Jovi_at_Madison_Square_Garden.jpg?20230508100829",
       "attribution": "slgckgc, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "title": "Livin' on a Prayer",
       "artist": "Bon Jovi",
@@ -76,91 +55,7 @@
         "aboutArtist": "Bon Jovi's name comes from lead singer Jon Bon Jovi.",
         "aboutSong": "The song was ranked number one on VH1's 100 Greatest Songs of the '80s."
       },
-      "videoUrl": "https://www.youtube.com/embed/Ep6G3P2v5ZA?si=lDHnjx67cdVdNoh2",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "5",
-      "image": "",
-      "attribution": "",
-      "title": "Take On Me",
-      "artist": "A-ha",
-      "album": "Hunting High and Low",
-      "decade": "80's",
-      "genre": "Synth-pop",
-      "trivia": {
-        "aboutArtist": "A-ha is a Norwegian band, and 'Take On Me' is their most famous song.",
-        "aboutSong": "The song's music video features a mix of live-action and pencil-sketch animation."
-      },
-      "videoUrl": "https://www.youtube.com/embed/bC4ER15Hj10?si=NsKSjrtRMjTS7POc",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "6",
-      "image": "",
-      "attribution": "",
-      "title": "Girls Just Want to Have Fun",
-      "artist": "Cyndi Lauper",
-      "album": "She's So Unusual",
-      "decade": "80's",
-      "genre": "Pop",
-      "trivia": {
-        "aboutArtist": "Cyndi Lauper is known for her eclectic fashion sense and dyed hair.",
-        "aboutSong": "The song was originally written and recorded by a man, Robert Hazard."
-      },
-      "videoUrl": "https://www.youtube.com/embed/acNC4PEHdrk?si=HgryAA4cNfwMTpHr",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "7",
-      "image": "",
-      "attribution": "",
-      "title": "Smells Like Teen Spirit",
-      "artist": "Nirvana",
-      "album": "Nevermind",
-      "decade": "90's",
-      "genre": "Grunge",
-      "trivia": {
-        "aboutArtist": "Nirvana's lead singer Kurt Cobain was also a talented visual artist.",
-        "aboutSong": "The song's success helped bring grunge music and alternative rock to a mainstream audience."
-      },
-      "videoUrl": "https://www.youtube.com/embed/z6tIMfDnwhs?si=5Tt4bc8cpm9npI15",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "8",
-      "image": "",
-      "attribution": "",
-      "title": "I Will Always Love You",
-      "artist": "Whitney Houston",
-      "album": "The Bodyguard: Original Soundtrack Album",
-      "decade": "90's",
-      "genre": "R&B",
-      "trivia": {
-        "aboutArtist": "Whitney Houston's rendition of the national anthem at Super Bowl XXV is considered one of the best of all time.",
-        "aboutSong": "The song was originally written and recorded by Dolly Parton in 1973."
-      },
-      "videoUrl": "https://www.youtube.com/embed/8kotNQ07ZEw?si=1cY4f95UhSvnas71",
+      "videoUrl": "https://www.youtube.com/embed/aDPeReFoyNA?si=c0tXJW60u17fZX9p",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -170,7 +65,7 @@
     },
     {
       "id": "9",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/TLC_2016.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TLC_2016.jpg/800px-TLC_2016.jpg?20160928234758",
       "attribution": "The Come Up Show from Canada, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "title": "Waterfalls",
       "artist": "TLC",
@@ -181,7 +76,7 @@
         "aboutArtist": "TLC is the best-selling American girl group of all time.",
         "aboutSong": "The song addresses social issues like HIV, drugs, and violence."
       },
-      "videoUrl": "https://www.youtube.com/embed/MBfYXMw-NvI?si=dnb6zrmhTBmSev8L",
+      "videoUrl": "https://www.youtube.com/embed/8EQH7EMH5u8?si=Yq9OEAT932vVL3Mf",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -191,8 +86,8 @@
     },
     {
       "id": "10",
-      "image": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd4%2FBritney_Spears_performing%252C_Las_Vegas%252C_January_29%252C_2014.jpg%2F1200px-Britney_Spears_performing%252C_Las_Vegas%252C_January_29%252C_2014.jpg",
-      "attribution": "rhysadams from Derby, United Kingdom, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Britney_Spears_performing%2C_Las_Vegas%2C_January_29%2C_2014.jpg/800px-Britney_Spears_performing%2C_Las_Vegas%2C_January_29%2C_2014.jpg?20190615064457",
+      "attribution": "Rhys Adams, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "title": "...Baby One More Time",
       "artist": "Britney Spears",
       "album": "...Baby One More Time",
@@ -202,7 +97,7 @@
         "aboutArtist": "Britney Spears' first job was as a child actor on the TV show The Mickey Mouse Club.",
         "aboutSong": "The song was originally offered to the group TLC but they turned it down."
       },
-      "videoUrl": "https://www.youtube.com/embed/PYpU2TxIzAM?si=yQavboz7C7MHZVNn",
+      "videoUrl": "https://www.youtube.com/embed/VcDrr50sF3I?si=3aZNu7BwzuDM1ZdO",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -212,7 +107,7 @@
     },
     {
       "id": "11",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Backstreet_Boys_%2848914290528%29.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Backstreet_Boys_%2848914290528%29.jpg/800px-Backstreet_Boys_%2848914290528%29.jpg?20220610101514",
       "attribution": "jenniferlinneaphotography from Denver, CO, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "title": "I Want It That Way",
       "artist": "Backstreet Boys",
@@ -223,7 +118,7 @@
         "aboutArtist": "The Backstreet Boys are one of the best-selling boy bands in history.",
         "aboutSong": "The song was written by Max Martin and Andreas Carlsson, two famous Swedish songwriters."
       },
-      "videoUrl": "https://www.youtube.com/embed/kXXQVir7yTw?si=QhcnrPDj0WuKODhI",
+      "videoUrl": "https://www.youtube.com/embed/khnQaSMer90?si=yBQ-8kSxBZyIPsf_",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -233,8 +128,8 @@
     },
     {
       "id": "12",
-      "image": "",
-      "attribution": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beyonce_concert_Barcelona.jpg/800px-Beyonce_concert_Barcelona.jpg?20100617212539",
+      "attribution": "Cornel Pex, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "title": "Crazy in Love",
       "artist": "Beyoncé featuring Jay-Z",
       "album": "Dangerously in Love",
@@ -307,28 +202,7 @@
         "aboutArtist": "Lady Gaga's real name is Stefani Joanne Angelina Germanotta.",
         "aboutSong": "The song is about bisexuality and was inspired by Gaga's personal experiences."
       },
-      "videoUrl": "https://www.youtube.com/embed/kTu2QPghqZU?si=ig-rqPRUq5QtWZc2",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "16",
-      "image": "",
-      "attribution": "",
-      "title": "Mr. Jones",
-      "artist": "Counting Crows",
-      "album": "August and Everything After",
-      "decade": "90's",
-      "genre": "Rock",
-      "trivia": {
-        "aboutArtist": "Counting Crows' lead singer, Adam Duritz, has dissociative identity disorder.",
-        "aboutSong": "The song was inspired by the lead singer's friend, Marty Jones."
-      },
-      "videoUrl": "https://www.youtube.com/embed/8OHSFx1C7hI?si=zJNvDeOelkjkqT_z",
+      "videoUrl": "https://www.youtube.com/embed/hR_A0nAPAF8?si=UbjNkHLSnFIBEi1m",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -391,7 +265,7 @@
         "aboutArtist": "Ed Sheeran was homeless for a period before his music career took off.",
         "aboutSong": "The song was originally intended for Rihanna."
       },
-      "videoUrl": "https://www.youtube.com/embed/o71_MatpYV0?si=Oi6zWEj6su5zFj2E",
+      "videoUrl": "https://www.youtube.com/embed/Sykj3KRNV7U?si=xyyZQ1OuiRVSASI1",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -412,7 +286,7 @@
         "aboutArtist": "The Weeknd's real name is Abel Tesfaye.",
         "aboutSong": "The song is inspired by 1980s music and film soundtracks."
       },
-      "videoUrl": "https://www.youtube.com/embed/Cj4hcXZs3Lc?si=l9sm3n4LTXMcfNDO",
+      "videoUrl": "https://www.youtube.com/embed/GgcyCJEEpbg?si=rzMGmJwb-SixdTXa",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -434,7 +308,7 @@
         "aboutSong": "The song's music video features a futuristic, space-themed dance party.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/nK9hD9_SAdU?si=xp4A-UU1VOUWCp_S",
+      "videoUrl": "https://www.youtube.com/embed/uHHfklqo3Ig?si=EkUcd7ikSgvGSSb1",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -478,7 +352,7 @@
         "aboutSong": "The song critiques the lavish lifestyles of contemporary pop and hip-hop artists.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/1Gv5AFz8HE0?si=5JSd2Xq0xGXQ92P6",
+      "videoUrl": "https://www.youtube.com/embed/17qLteOlEKw?si=kteexjSd8OFitNfw",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -500,7 +374,7 @@
         "aboutSong": "The song is rumored to be about Miley's ex-husband, Liam Hemsworth.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/fO4wsNsXtDg?si=3RlTJiJQBK08x-JU",
+      "videoUrl": "https://www.youtube.com/embed/I2zmcH0x2Wc?si=gTSHcZC1I89n9K2d",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -522,7 +396,7 @@
         "aboutSong": "The song's music video features a striking choreography with a giant turntable.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/JyKfmLkq3BU?si=jsklTuKJQQzPehj-",
+      "videoUrl": "https://www.youtube.com/embed/eiUAyu_gFsY?si=3OyJSvuWlEqZ3ylv",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
