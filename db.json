@@ -2,16 +2,16 @@
   "songs": [
     {
       "id": "1",
-      "image": "https://people.com/thmb/JGjxumyykHNuBoeyuELz33P2uHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x309:721x311)/rick-astley-recreation-never-gonna-give-you-up-081922-1-909d277568c34a599c27fa7503ce7a4c.jpg",
-      "song": "Never Gonna Give You Up",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasto2023_%28145_of_468%29_%2853009328470%29.jpg/800px-Glasto2023_%28145_of_468%29_%2853009328470%29.jpg?20230629073959",
+      "attribution": "Raph_PH, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Never Gonna Give You Up",
       "artist": "Rick Astley",
       "album": "Whenever You Need Somebody",
       "decade": "80's",
       "genre": "Pop",
       "trivia": {
         "aboutArtist": "Rick Astley retired from music at age 27 to spend more time with his family.",
-        "aboutSong": "The song became an internet sensation as part of the 'Rickrolling' meme.",
-        "profileImage": ""
+        "aboutSong": "The song became an internet sensation as part of the 'Rickrolling' meme."
       },
       "videoUrl": "https://www.youtube.com/embed/9iQH7g_zKl8?si=Lhp0Ekyfw04wOMdR",
       "isFavorite": false,
@@ -23,39 +23,18 @@
     },
     {
       "id": "2",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAod41UJ62A6WlTrgGAHoXYv-5Kx3794uAjg&s",
-      "song": "Like a Prayer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Madonna1023_%2821915947438%29.jpg/800px-Madonna1023_%2821915947438%29.jpg?20151215170509",
+     "attribution": "BBGunBilly -  have you been shot? from Minneapolis, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Like a Prayer",
       "artist": "Madonna",
       "album": "Like a Prayer",
       "decade": "80's",
       "genre": "Pop",
       "trivia": {
         "aboutArtist": "Madonna has been referred to as the 'Queen of Pop' since the 1980s.",
-        "aboutSong": "The song's music video was controversial for its religious imagery.",
-        "profileImage": ""
+        "aboutSong": "The song's music video was controversial for its religious imagery."
       },
-      "videoUrl": "https://www.youtube.com/embed/mTW-Ut83PPU?si=g5L6PRh2yROqnET6",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "3",
-      "image": "https://images.hellomagazine.com/horizon/landscape/fc8dff605b62-michael-jackson-2009-press-conference.jpg",
-      "song": "Thriller",
-      "artist": "Michael Jackson",
-      "album": "Thriller",
-      "decade": "80's",
-      "genre": "Pop",
-      "trivia": {
-        "aboutArtist": "Michael Jackson is known as the 'King of Pop'.",
-        "aboutSong": "The 'Thriller' music video is one of the most famous of all time.",
-        "profileImage": ""
-      },
-      "videoUrl": "https://www.youtube.com/embed/3pZ2Bn8G24E?si=xG6VtMr5DCk5M1YU",
+      "videoUrl": "https://www.youtube.com/embed/hUgoIVt00HU?si=wqK3dEmQgO2XHyYW",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -65,102 +44,18 @@
     },
     {
       "id": "4",
-      "image": "https://people.com/thmb/9fGTuNVdQM_jtvUZ63pOT8Pbg3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(990x532:992x534)/bon-jovi-1-851d1c9eb34b4a65a538f0fdaac61f55.jpg",
-      "song": "Livin' on a Prayer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bon_Jovi_at_Madison_Square_Garden.jpg/800px-Bon_Jovi_at_Madison_Square_Garden.jpg?20230508100829",
+      "attribution": "slgckgc, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Livin' on a Prayer",
       "artist": "Bon Jovi",
       "album": "Slippery When Wet",
       "decade": "80's",
       "genre": "Rock",
       "trivia": {
         "aboutArtist": "Bon Jovi's name comes from lead singer Jon Bon Jovi.",
-        "aboutSong": "The song was ranked number one on VH1's 100 Greatest Songs of the '80s.",
-        "profileImage": ""
+        "aboutSong": "The song was ranked number one on VH1's 100 Greatest Songs of the '80s."
       },
-      "videoUrl": "https://www.youtube.com/embed/Ep6G3P2v5ZA?si=lDHnjx67cdVdNoh2",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "5",
-      "image": "https://img.nzz.ch/2021/10/12/cb913be4-9a16-41f3-a946-12f7668e5a47.jpeg?quality=75&auto=webp?width=1200&height=813&fit=crop&quality=75&auto=webp",
-      "song": "Take On Me",
-      "artist": "A-ha",
-      "album": "Hunting High and Low",
-      "decade": "80's",
-      "genre": "Synth-pop",
-      "trivia": {
-        "aboutArtist": "A-ha is a Norwegian band, and 'Take On Me' is their most famous song.",
-        "aboutSong": "The song's music video features a mix of live-action and pencil-sketch animation.",
-        "profileImage": ""
-      },
-      "videoUrl": "https://www.youtube.com/embed/bC4ER15Hj10?si=NsKSjrtRMjTS7POc",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "6",
-      "image": "https://www.eluniversal.com.mx/resizer/Nn3nyXIY7znglrEjFwtuNZYD1zI=/1100x666/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/GXNOQPZBZJHMZA2Z6GAY5CQNT4.jpg",
-      "song": "Girls Just Want to Have Fun",
-      "artist": "Cyndi Lauper",
-      "album": "She's So Unusual",
-      "decade": "80's",
-      "genre": "Pop",
-      "trivia": {
-        "aboutArtist": "Cyndi Lauper is known for her eclectic fashion sense and dyed hair.",
-        "aboutSong": "The song was originally written and recorded by a man, Robert Hazard.",
-        "profileImage": ""
-      },
-      "videoUrl": "https://www.youtube.com/embed/acNC4PEHdrk?si=HgryAA4cNfwMTpHr",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "7",
-      "image": "https://images-prod.dazeddigital.com/1500/azure/dazed-prod/1220/9/1229138.jpg",
-      "song": "Smells Like Teen Spirit",
-      "artist": "Nirvana",
-      "album": "Nevermind",
-      "decade": "90's",
-      "genre": "Grunge",
-      "trivia": {
-        "aboutArtist": "Nirvana's lead singer Kurt Cobain was also a talented visual artist.",
-        "aboutSong": "The song's success helped bring grunge music and alternative rock to a mainstream audience.",
-        "profileImage": ""
-      },
-      "videoUrl": "https://www.youtube.com/embed/z6tIMfDnwhs?si=5Tt4bc8cpm9npI15",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "8",
-      "image": "",
-      "song": "I Will Always Love You",
-      "artist": "Whitney Houston",
-      "album": "The Bodyguard: Original Soundtrack Album",
-      "decade": "90's",
-      "genre": "R&B",
-      "trivia": {
-        "aboutArtist": "Whitney Houston's rendition of the national anthem at Super Bowl XXV is considered one of the best of all time.",
-        "aboutSong": "The song was originally written and recorded by Dolly Parton in 1973.",
-        "profileImage": ""
-      },
-      "videoUrl": "https://www.youtube.com/embed/8kotNQ07ZEw?si=1cY4f95UhSvnas71",
+      "videoUrl": "https://www.youtube.com/embed/aDPeReFoyNA?si=c0tXJW60u17fZX9p",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -170,18 +65,18 @@
     },
     {
       "id": "9",
-      "image": "",
-      "song": "Waterfalls",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TLC_2016.jpg/800px-TLC_2016.jpg?20160928234758",
+      "attribution": "The Come Up Show from Canada, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Waterfalls",
       "artist": "TLC",
       "album": "CrazySexyCool",
       "decade": "90's",
       "genre": "R&B",
       "trivia": {
         "aboutArtist": "TLC is the best-selling American girl group of all time.",
-        "aboutSong": "The song addresses social issues like HIV, drugs, and violence.",
-        "profileImage": ""
+        "aboutSong": "The song addresses social issues like HIV, drugs, and violence."
       },
-      "videoUrl": "https://www.youtube.com/embed/MBfYXMw-NvI?si=dnb6zrmhTBmSev8L",
+      "videoUrl": "https://www.youtube.com/embed/8EQH7EMH5u8?si=Yq9OEAT932vVL3Mf",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -191,18 +86,18 @@
     },
     {
       "id": "10",
-      "image": "",
-      "song": "...Baby One More Time",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Britney_Spears_performing%2C_Las_Vegas%2C_January_29%2C_2014.jpg/800px-Britney_Spears_performing%2C_Las_Vegas%2C_January_29%2C_2014.jpg?20190615064457",
+      "attribution": "Rhys Adams, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "...Baby One More Time",
       "artist": "Britney Spears",
       "album": "...Baby One More Time",
       "decade": "90's",
       "genre": "Pop",
       "trivia": {
         "aboutArtist": "Britney Spears' first job was as a child actor on the TV show The Mickey Mouse Club.",
-        "aboutSong": "The song was originally offered to the group TLC but they turned it down.",
-        "profileImage": ""
+        "aboutSong": "The song was originally offered to the group TLC but they turned it down."
       },
-      "videoUrl": "https://www.youtube.com/embed/PYpU2TxIzAM?si=yQavboz7C7MHZVNn",
+      "videoUrl": "https://www.youtube.com/embed/VcDrr50sF3I?si=3aZNu7BwzuDM1ZdO",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -212,18 +107,18 @@
     },
     {
       "id": "11",
-      "image": "",
-      "song": "I Want It That Way",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Backstreet_Boys_%2848914290528%29.jpg/800px-Backstreet_Boys_%2848914290528%29.jpg?20220610101514",
+      "attribution": "jenniferlinneaphotography from Denver, CO, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "I Want It That Way",
       "artist": "Backstreet Boys",
       "album": "Millennium",
       "decade": "90's",
       "genre": "Pop",
       "trivia": {
         "aboutArtist": "The Backstreet Boys are one of the best-selling boy bands in history.",
-        "aboutSong": "The song was written by Max Martin and Andreas Carlsson, two famous Swedish songwriters.",
-        "profileImage": ""
+        "aboutSong": "The song was written by Max Martin and Andreas Carlsson, two famous Swedish songwriters."
       },
-      "videoUrl": "https://www.youtube.com/embed/kXXQVir7yTw?si=QhcnrPDj0WuKODhI",
+      "videoUrl": "https://www.youtube.com/embed/khnQaSMer90?si=yBQ-8kSxBZyIPsf_",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -233,16 +128,16 @@
     },
     {
       "id": "12",
-      "image": "",
-      "song": "Crazy in Love",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beyonce_concert_Barcelona.jpg/800px-Beyonce_concert_Barcelona.jpg?20100617212539",
+      "attribution": "Cornel Pex, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Crazy in Love",
       "artist": "Beyoncé featuring Jay-Z",
       "album": "Dangerously in Love",
       "decade": "00's",
       "genre": "R&B",
       "trivia": {
         "aboutArtist": "Beyoncé began her music career as a member of Destiny's Child.",
-        "aboutSong": "The song features a prominent sample from The Chi-Lites' 1970 song 'Are You My Woman (Tell Me So)'.",
-        "profileImage": ""
+        "aboutSong": "The song features a prominent sample from The Chi-Lites' 1970 song 'Are You My Woman (Tell Me So)'."
       },
       "videoUrl": "https://www.youtube.com/embed/Po2wzSJPTBk?si=VEixNp3G2UT4QN64",
       "isFavorite": false,
@@ -254,16 +149,16 @@
     },
     {
       "id": "13",
-      "image": "",
-      "song": "Lose Yourself",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Eminem_-_Concert_for_Valor_in_Washington%2C_D.C._Nov._11%2C_2014.jpg",
+      "attribution": "DoD News Features, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Lose Yourself",
       "artist": "Eminem",
       "album": "8 Mile: Music from and Inspired by the Motion Picture",
       "decade": "00's",
       "genre": "Hip Hop",
       "trivia": {
         "aboutArtist": "Eminem's real name is Marshall Bruce Mathers III.",
-        "aboutSong": "This song won the Academy Award for Best Original Song in 2003.",
-        "profileImage": ""
+        "aboutSong": "This song won the Academy Award for Best Original Song in 2003."
       },
       "videoUrl": "https://www.youtube.com/embed/F-p2BQ4H1nA?si=DK3VFJb02rkJW36_",
       "isFavorite": false,
@@ -275,16 +170,16 @@
     },
     {
       "id": "14",
-      "image": "",
-      "song": "Hey Ya!",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Outkast_%283619554591%29.jpg",
+      "attribution": "Tulane Public Relations, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Hey Ya!",
       "artist": "OutKast",
       "album": "Speakerboxxx/The Love Below",
       "decade": "00's",
       "genre": "Hip Hop",
       "trivia": {
         "aboutArtist": "OutKast is known for their eclectic style and unique sound.",
-        "aboutSong": "The song's chorus was inspired by The Beatles' song 'Hey Jude'.",
-        "profileImage": ""
+        "aboutSong": "The song's chorus was inspired by The Beatles' song 'Hey Jude'."
       },
       "videoUrl": "https://www.youtube.com/embed/LGnu886xzJY?si=zvS1PMO_DjAmw12S",
       "isFavorite": false,
@@ -296,39 +191,18 @@
     },
     {
       "id": "15",
-      "image": "",
-      "song": "Poker Face",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lady_Gaga_Grammys_2017.png",
+      "attribution": "Rogue Artists, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+      "title": "Poker Face",
       "artist": "Lady Gaga",
       "album": "The Fame",
       "decade": "00's",
       "genre": "Pop",
       "trivia": {
         "aboutArtist": "Lady Gaga's real name is Stefani Joanne Angelina Germanotta.",
-        "aboutSong": "The song is about bisexuality and was inspired by Gaga's personal experiences.",
-        "profileImage": ""
+        "aboutSong": "The song is about bisexuality and was inspired by Gaga's personal experiences."
       },
-      "videoUrl": "https://www.youtube.com/embed/kTu2QPghqZU?si=ig-rqPRUq5QtWZc2",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      }
-    },
-    {
-      "id": "16",
-      "image": "",
-      "song": "Mr. Jones",
-      "artist": "Counting Crows",
-      "album": "August and Everything After",
-      "decade": "90's",
-      "genre": "Rock",
-      "trivia": {
-        "aboutArtist": "Counting Crows' lead singer, Adam Duritz, has dissociative identity disorder.",
-        "aboutSong": "The song was inspired by the lead singer's friend, Marty Jones.",
-        "profileImage": ""
-      },
-      "videoUrl": "https://www.youtube.com/embed/8OHSFx1C7hI?si=zJNvDeOelkjkqT_z",
+      "videoUrl": "https://www.youtube.com/embed/hR_A0nAPAF8?si=UbjNkHLSnFIBEi1m",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -338,16 +212,16 @@
     },
     {
       "id": "17",
-      "image": "",
-      "song": "Rolling in the Deep",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Adele_%27Adele_Live_2016%27_-_Nashville_DSC04730_%2830410487985%29.jpg",
+      "attribution": "Kristopher Harris from Charlotte, NC, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Rolling in the Deep",
       "artist": "Adele",
       "album": "21",
       "decade": "10's",
       "genre": "Soul",
       "trivia": {
         "aboutArtist": "Adele was discovered through MySpace.",
-        "aboutSong": "The song won Grammy Awards for Record of the Year and Song of the Year.",
-        "profileImage": ""
+        "aboutSong": "The song won Grammy Awards for Record of the Year and Song of the Year."
       },
       "videoUrl": "https://www.youtube.com/embed/B3O1OlTWXSA?si=X7OL3vqDgzmDMqYw",
       "isFavorite": false,
@@ -359,16 +233,16 @@
     },
     {
       "id": "18",
-      "image": "",
-      "song": "Uptown Funk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/POS16_F6_RONSON_6_%2828312316932%29.jpg",
+      "attribution": "Krists Luhaers, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Uptown Funk",
       "artist": "Mark Ronson featuring Bruno Mars",
       "album": "Uptown Special",
       "decade": "10's",
       "genre": "Funk",
       "trivia": {
         "aboutArtist": "Mark Ronson is a renowned music producer and DJ.",
-        "aboutSong": "The song's retro sound and style were influenced by 1980s funk music.",
-        "profileImage": ""
+        "aboutSong": "The song's retro sound and style were influenced by 1980s funk music."
       },
       "videoUrl": "https://www.youtube.com/embed/F3R6eJKAz4M?si=S1d5cutZU5IgXw5I",
       "isFavorite": false,
@@ -380,18 +254,18 @@
     },
     {
       "id": "19",
-      "image": "",
-      "song": "Shape of You",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ed_Sheeran_performing_live.jpg",
+      "attribution": "[1], CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Shape of You",
       "artist": "Ed Sheeran",
       "album": "÷ (Divide)",
       "decade": "10's",
       "genre": "Pop",
       "trivia": {
         "aboutArtist": "Ed Sheeran was homeless for a period before his music career took off.",
-        "aboutSong": "The song was originally intended for Rihanna.",
-        "profileImage": ""
+        "aboutSong": "The song was originally intended for Rihanna."
       },
-      "videoUrl": "https://www.youtube.com/embed/o71_MatpYV0?si=Oi6zWEj6su5zFj2E",
+      "videoUrl": "https://www.youtube.com/embed/Sykj3KRNV7U?si=xyyZQ1OuiRVSASI1",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -401,18 +275,18 @@
     },
     {
       "id": "20",
-      "image": "",
-      "song": "Blinding Lights",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_Weeknd_by_David_Hwang.jpg",
+      "attribution": "David Hwang, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Blinding Lights",
       "artist": "The Weeknd",
       "album": "After Hours",
       "decade": "20's",
       "genre": "Synthwave",
       "trivia": {
         "aboutArtist": "The Weeknd's real name is Abel Tesfaye.",
-        "aboutSong": "The song is inspired by 1980s music and film soundtracks.",
-        "profileImage": ""
+        "aboutSong": "The song is inspired by 1980s music and film soundtracks."
       },
-      "videoUrl": "https://www.youtube.com/embed/Cj4hcXZs3Lc?si=l9sm3n4LTXMcfNDO",
+      "videoUrl": "https://www.youtube.com/embed/GgcyCJEEpbg?si=rzMGmJwb-SixdTXa",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -422,8 +296,9 @@
     },
     {
       "id": "21",
-      "image": "",
-      "song": "Levitating",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dua_Lipa_02_12_2018_-21_%2825993747857%29.jpg",
+      "attribution": "Justin Higuchi from Los Angeles, CA, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Levitating",
       "artist": "Dua Lipa",
       "album": "Future Nostalgia",
       "decade": "20's",
@@ -433,7 +308,7 @@
         "aboutSong": "The song's music video features a futuristic, space-themed dance party.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/nK9hD9_SAdU?si=xp4A-UU1VOUWCp_S",
+      "videoUrl": "https://www.youtube.com/embed/uHHfklqo3Ig?si=EkUcd7ikSgvGSSb1",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -443,8 +318,9 @@
     },
     {
       "id": "22",
-      "image": "",
-      "song": "Dynamite",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/181201_BTS_at_the_MelOn_Music_Awards.jpg",
+      "attribution": "TenAsia, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+      "title": "Dynamite",
       "artist": "BTS",
       "album": "Be",
       "decade": "20's",
@@ -464,8 +340,9 @@
     },
     {
       "id": "23",
-      "image": "",
-      "song": "Royals",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lorde_Constanza_3.jpg",
+      "attribution": "Constanza.CH, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Royals",
       "artist": "Lorde",
       "album": "Pure Heroine",
       "decade": "10's",
@@ -475,7 +352,7 @@
         "aboutSong": "The song critiques the lavish lifestyles of contemporary pop and hip-hop artists.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/1Gv5AFz8HE0?si=5JSd2Xq0xGXQ92P6",
+      "videoUrl": "https://www.youtube.com/embed/17qLteOlEKw?si=kteexjSd8OFitNfw",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -485,8 +362,9 @@
     },
     {
       "id": "24",
-      "image": "",
-      "song": "Flowers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Miley_Cyrus_Primavera19_-236_%2848986303017%29_%28cropped%29.jpg",
+      "attribution": "Raph_PH, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Flowers",
       "artist": "Miley Cyrus",
       "album": "Endless Summer Vacation",
       "decade": "20's",
@@ -496,7 +374,7 @@
         "aboutSong": "The song is rumored to be about Miley's ex-husband, Liam Hemsworth.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/fO4wsNsXtDg?si=3RlTJiJQBK08x-JU",
+      "videoUrl": "https://www.youtube.com/embed/I2zmcH0x2Wc?si=gTSHcZC1I89n9K2d",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
@@ -506,8 +384,9 @@
     },
     {
       "id": "25",
-      "image": "",
-      "song": "As It Was",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Harry_Styles_-_OZ_Arena_-_4-11-2018_28.jpg",
+      "attribution": "erintheredmc, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "As It Was",
       "artist": "Harry Styles",
       "album": "Harry's House",
       "decade": "20's",
@@ -517,13 +396,408 @@
         "aboutSong": "The song's music video features a striking choreography with a giant turntable.",
         "profileImage": ""
       },
-      "videoUrl": "https://www.youtube.com/embed/JyKfmLkq3BU?si=jsklTuKJQQzPehj-",
+      "videoUrl": "https://www.youtube.com/embed/eiUAyu_gFsY?si=3OyJSvuWlEqZ3ylv",
       "isFavorite": false,
       "uploadedBy": {
         "userId": "",
         "username": "",
         "profileImage": ""
       }
+    },
+    {
+      "id": "30",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Springsteen_On_Broadway_-_Walter_Kerr_Theater_-_Thursday_2nd_November_2017_SpringsteenBroadWay021117-34_%2838193036992%29.jpg",
+      "attribution": "Raph_PH, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Born in the USA",
+      "artist": "Bruce Springsteen",
+      "album": "Born in the USA",
+      "decade": "80's",
+      "genre": "Rock",
+      "trivia": {
+        "aboutArtist": "Bruce Springsteen is known as 'The Boss'.",
+        "aboutSong": "'Born in the USA' is often misinterpreted as a patriotic anthem."
+      },
+      "videoUrl": "https://www.youtube.com/embed/fXMkeUpRzhM?si=siU5sfw08zF5pdoX",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "31",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Depeche_Mode_in_Glasgow_2013_%2810838442765%29.jpg",
+      "attribution": "Fraser Mummery from Liverpool, England, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Enjoy the Silence",
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "decade": "90's",
+      "genre": "Synth-pop",
+      "trivia": {
+        "aboutArtist": "Depeche Mode was formed in Basildon, Essex, in 1980.",
+        "aboutSong": "The song's original demo was a slow ballad."
+      },
+      "videoUrl": "https://www.youtube.com/embed/rMo3RTNz19o?si=zuo-qCFx9dlsIteX",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "32",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Andy_Summers_and_Sting_%28The_Police%29_%284934536465%29.jpg",
+      "attribution": "Alberto Cabello from Vitoria-Gasteiz, Spain, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Every Breath You Take",
+      "artist": "The Police",
+      "album": "Synchronicity",
+      "decade": "80's",
+      "genre": "Rock",
+      "trivia": {
+        "aboutArtist": "The Police were inducted into the Rock and Roll Hall of Fame in 2003.",
+        "aboutSong": "The song is often misunderstood as a romantic song, but it's about surveillance and control."
+      },
+      "videoUrl": "https://www.youtube.com/embed/hVA5qsh6IX4?si=8uwV2vEtw-hMIh4q",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "33",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Dolly_Parton_at_Wolf_Trap%2C_2011_IMG_6252_%285997835258%29.jpg",
+      "attribution": "Leeann Cafferata from Washington DC and Akershus, Norway, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Islands in the Stream",
+      "artist": "Dolly Parton and Kenny Rogers",
+      "album": "Eyes That See in the Dark",
+      "decade": "80's",
+      "genre": "Country",
+      "trivia": {
+        "aboutArtist": "Dolly Parton is one of the best-selling female artists of all time.",
+        "aboutSong": "The song was written by the Bee Gees."
+      },
+      "videoUrl": "https://www.youtube.com/embed/TIRMBr4vMY4?si=QQ35_XuYHCcHlBna",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "34",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Robbie_Williams%2C_Roundhouse%2C_London_%28Apple_Music_Festival%29_%2829312825513%29.jpg",
+      "attribution": "Drew de F Fawkes, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Angels",
+      "artist": "Robbie Williams",
+      "album": "Life thru a Lens",
+      "decade": "90's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Robbie Williams was a member of the boy band Take That.",
+        "aboutSong": "'Angels' is one of the most popular and enduring hits of Robbie Williams."
+      },
+      "videoUrl": "https://www.youtube.com/embed/f_syy-8FGYg?si=r1hxRN0ds6ZIxGRh",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "35",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/ShaniaTwain4.jpg",
+      "attribution": "David Swales, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+      "title": "Man! I Feel Like a Woman",
+      "artist": "Shania Twain",
+      "album": "Come On Over",
+      "decade": "90's",
+      "genre": "Country Pop",
+      "trivia": {
+        "aboutArtist": "Shania Twain is often referred to as the 'Queen of Country Pop'.",
+        "aboutSong": "The song is known for its feminist anthem quality and energetic music video."
+      },
+      "videoUrl": "https://www.youtube.com/embed/VwVuEZeM264?si=FHL_bHIH79pAOnH9",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "36",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/2009_-_Oasis_%26_Friends_%28Sunderland%29_Oasis_%283617122468%29.jpg",
+      "attribution": "vagueonthehow from Tadcaster, York, England, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "album": "(What's the Story) Morning Glory?",
+      "decade": "90's",
+      "genre": "Britpop",
+      "trivia": {
+        "aboutArtist": "Oasis is one of the most successful bands of the Britpop era.",
+        "aboutSong": "'Wonderwall' remains one of the band's most popular songs."
+      },
+      "videoUrl": "https://www.youtube.com/embed/LA6VwQ0HXdE?si=kK4NW_Z_JzF1hgTB",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "37",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/CherO2201019-43_%2848933231397%29.jpg",
+      "attribution": "Raph_PH, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Believe",
+      "artist": "Cher",
+      "album": "Believe",
+      "decade": "90's",
+      "genre": "Dance-pop",
+      "trivia": {
+        "aboutArtist": "Cher is often referred to as the 'Goddess of Pop'.",
+        "aboutSong": "The song is famous for its use of Auto-Tune, creating a robotic vocal effect."
+      },
+      "videoUrl": "https://www.youtube.com/embed/s1DWvYZem_o?si=nrqQYdDxl2vukkyD",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "38",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sophie_Ellis-Bextor_live_at_Union_Chapel%2C_London%2C_2012.jpg",
+      "attribution": "Ed Webster, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Murder on the Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "album": "Read My Lips",
+      "decade": "00's",
+      "genre": "Dance-pop",
+      "trivia": {
+        "aboutArtist": "Sophie Ellis-Bextor's debut album 'Read My Lips' went double platinum.",
+        "aboutSong": "The song was a massive hit across Europe and Australia."
+      },
+      "videoUrl": "https://www.youtube.com/embed/fo18eyCR7LM?si=Y0x8Zreb3xD74GAj",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "39",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Shakira_-_Live_Paris_-_2010_%2812%29.jpg",
+      "attribution": "oouinouin from Nanterre, France, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Hips Don’t Lie",
+      "artist": "Shakira",
+      "album": "Oral Fixation, Vol. 2",
+      "decade": "00's",
+      "genre": "Latin Pop",
+      "trivia": {
+        "aboutArtist": "Shakira is known for her unique voice and hip-shaking belly dance moves.",
+        "aboutSong": "'Hips Don’t Lie' is one of the best-selling singles of the 21st century."
+      },
+      "videoUrl": "https://www.youtube.com/embed/2BR-F0Zs-kc?si=g3dWghhce_App7-w",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "40",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Amy_Winehouse_Berlin.jpg",
+      "attribution": "nuflicks, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Valerie",
+      "artist": "Amy Winehouse",
+      "album": "Back to Black (Deluxe Edition)",
+      "decade": "00's",
+      "genre": "Soul",
+      "trivia": {
+        "aboutArtist": "Amy Winehouse won five Grammy Awards in 2008.",
+        "aboutSong": "The song is a cover of The Zutons' original version."
+      },
+      "videoUrl": "https://www.youtube.com/embed/rKn345EvCiU?si=NUl12RmhF-zVCHu9",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "41",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/KillersBST080717-38_%2835742625041%29_%28cropped%29_%28cropped%29.jpg",
+      "attribution": "Raph_PH, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "album": "Hot Fuss",
+      "decade": "00's",
+      "genre": "Alternative Rock",
+      "trivia": {
+        "aboutArtist": "The Killers are one of the biggest rock bands of the 21st century.",
+        "aboutSong": "'Mr. Brightside' is one of the most enduring songs of the 2000s."
+      },
+      "videoUrl": "https://www.youtube.com/embed/NvZyU7ij_bs?si=IvJvliBab19QdpdS",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "42",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nelly_Furtado_at_Beyond_the_Valley_2022.jpg",
+      "attribution": "Martin Philbey, CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons",
+      "title": "I’m Like a Bird",
+      "artist": "Nelly Furtado",
+      "album": "Whoa, Nelly!",
+      "decade": "00's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Nelly Furtado won a Grammy Award for Best Female Pop Vocal Performance for this song.",
+        "aboutSong": "The song was Nelly Furtado's debut single and remains one of her biggest hits."
+      },
+      "videoUrl": "https://www.youtube.com/embed/SyBaHvh3FIo?si=HHCV9t2zc89Gf_UL",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "43",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alicia_Keys_live_Walmart.jpg",
+      "attribution": "Walmart from Bentonville, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "If I Ain’t Got You",
+      "artist": "Alicia Keys",
+      "album": "The Diary of Alicia Keys",
+      "decade": "00's",
+      "genre": "R&B",
+      "trivia": {
+        "aboutArtist": "Alicia Keys is a classically-trained pianist.",
+        "aboutSong": "The song was inspired by the death of singer Aaliyah and the 9/11 attacks."
+      },
+      "videoUrl": "https://www.youtube.com/embed/YhV-SF8jeHc?si=gpit2iYuImkfHUhB",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "44",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/FLORENCE_%2B_THE_MACHINE_-_25-6-15_-_Rock_Werchter%2C_Belgium_%2835319651032%29.jpg",
+      "attribution": "letobladioblada, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Dog Days Are Over",
+      "artist": "Florence + The Machine",
+      "album": "Lungs",
+      "decade": "00's",
+      "genre": "Indie Rock",
+      "trivia": {
+        "aboutArtist": "Florence Welch is known for her powerful vocal performances.",
+        "aboutSong": "The song was inspired by an art installation by Ugo Rondinone."
+      },
+      "videoUrl": "https://www.youtube.com/embed/wA3drzIZmO8?si=U_aoBUXJOqYHKdf2",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "45",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Justin_Timberlake%2C_V_Festival_2014%2C_Chelmsford_%2814788626730%29.jpg",
+      "attribution": "Drew de F Fawkes, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Señorita",
+      "artist": "Justin Timberlake",
+      "album": "Justified",
+      "decade": "00's",
+      "genre": "R&B",
+      "trivia": {
+        "aboutArtist": "Justin Timberlake was a member of the boy band NSYNC.",
+        "aboutSong": "The song features a call-and-response section with the audience."
+      },
+      "videoUrl": "https://www.youtube.com/embed/xJ1QK4J_IWY?si=iazrIvrZAtCKGx0X",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "46",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Avicii_2014_001.png",
+      "attribution": "The Perfect World Foundation, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+      "title": "Wake Me Up",
+      "artist": "Avicii",
+      "album": "True",
+      "decade": "10's",
+      "genre": "Electronic",
+      "trivia": {
+        "aboutArtist": "Avicii's real name was Tim Bergling.",
+        "aboutSong": "The song features vocals from Aloe Blacc."
+      },
+      "videoUrl": "https://www.youtube.com/embed/QhbXgmPNFKE?si=b5uBbC57Pgpyeakp",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      }
+    },
+    {
+      "id": "47",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lana_del_Rey_%40_Planeta_Terra.jpg",
+      "attribution": "Beatriz Alvani, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "title": "Young & Beautiful",
+      "artist": "Lana Del Rey",
+      "album": "The Great Gatsby: Music from Baz Luhrmann's Film",
+      "decade": "10's",
+      "genre": "Pop",
+      "trivia": {
+        "aboutArtist": "Lana Del Rey's music is noted for its cinematic quality.",
+        "aboutSong": "The song was written for the soundtrack of the 2013 film 'The Great Gatsby'."
+      },
+      "videoUrl": "https://www.youtube.com/embed/WTAVEak84cM?si=kAGXoWeC4ghlstl8",
+      "isFavorite": false,
+      "uploadedBy": {
+        "userId": "",
+        "username": "",
+        "profileImage": ""
+      },
+      "title": "aaaaaaaa",
+      "artist": "aaaaaaaa",
+      "genre": "aaaaaaaaa",
+      "decade": "aaaaaaaa",
+      "image": "aaaaaaaaaaaaaa",
+      "attribution": "aaaaaaaaaa",
+      "trivia": {
+        "aboutArtist": "aaaaaaaaaaa",
+        "aboutSong": "aaaaaaaaaa"
+      },
+      "videoUrl": "aaaaaaaaaaaaaa",
+      "uploadedBy": {
+        "userId": "_3Is841",
+        "username": "Dani",
+        "profileImage": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpghttps://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg"
+      },
+      "id": "L5jA3Y3"
     }
   ],
   "users": [
@@ -531,13 +805,15 @@
       "id": "1",
       "username": "RavenRockstar",
       "profileImage": "https://i.pinimg.com/originals/00/4a/1c/004a1c19a8cf6fb41bb3bddd6caef647.png",
-      "password": "12345"
+      "password": "12345",
+      "favorites": []
     },
     {
       "id": "2",
       "username": "HuffleHarmonizer",
       "profileImage": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/nxlndwyykd2zvmiqanax.jpg",
-      "password": "12345"
+      "password": "12345",
+      "favorites": []
     },
     {
       "id": "3",
@@ -558,6 +834,19 @@
       "profileImage": "https://fjkdfkjsdfjk",
       "favorites": [],
       "id": "ixdVb-W"
+    },
+    {
+      "username": "Dani",
+      "password": "2244",
+      "profileImage": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpghttps://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg",
+      "id": "_3Is841",
+      "favorites": [
+        "1",
+        "22",
+        "21",
+        "19",
+        "18"
+      ]
     }
   ]
 }
