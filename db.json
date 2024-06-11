@@ -760,45 +760,7 @@
         "username": "",
         "profileImage": ""
       }
-    },
-    {
-      "id": "47",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lana_del_Rey_%40_Planeta_Terra.jpg",
-      "attribution": "Beatriz Alvani, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-      "title": "Young & Beautiful",
-      "artist": "Lana Del Rey",
-      "album": "The Great Gatsby: Music from Baz Luhrmann's Film",
-      "decade": "10's",
-      "genre": "Pop",
-      "trivia": {
-        "aboutArtist": "Lana Del Rey's music is noted for its cinematic quality.",
-        "aboutSong": "The song was written for the soundtrack of the 2013 film 'The Great Gatsby'."
-      },
-      "videoUrl": "https://www.youtube.com/embed/WTAVEak84cM?si=kAGXoWeC4ghlstl8",
-      "isFavorite": false,
-      "uploadedBy": {
-        "userId": "",
-        "username": "",
-        "profileImage": ""
-      },
-      "title": "aaaaaaaa",
-      "artist": "aaaaaaaa",
-      "genre": "aaaaaaaaa",
-      "decade": "aaaaaaaa",
-      "image": "aaaaaaaaaaaaaa",
-      "attribution": "aaaaaaaaaa",
-      "trivia": {
-        "aboutArtist": "aaaaaaaaaaa",
-        "aboutSong": "aaaaaaaaaa"
-      },
-      "videoUrl": "aaaaaaaaaaaaaa",
-      "uploadedBy": {
-        "userId": "_3Is841",
-        "username": "Dani",
-        "profileImage": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpghttps://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg"
-      },
-      "id": "L5jA3Y3"
-    }
+    }    
   ],
   "users": [
     {
