@@ -24,7 +24,7 @@
     {
       "id": "2",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Madonna1023_%2821915947438%29.jpg/800px-Madonna1023_%2821915947438%29.jpg?20151215170509",
-     "attribution": "BBGunBilly -  have you been shot? from Minneapolis, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "attribution": "BBGunBilly -  have you been shot? from Minneapolis, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
       "title": "Like a Prayer",
       "artist": "Madonna",
       "album": "Like a Prayer",
@@ -760,7 +760,140 @@
         "username": "",
         "profileImage": ""
       }
-    }    
+    },
+    {
+      "title": "Hello",
+      "artist": "Adelle",
+      "genre": "Pop",
+      "decade": "20s",
+      "image": "https://fjkdfkjsdfjk",
+      "attribution": "",
+      "trivia": {
+        "aboutArtist": "nejfnej",
+        "aboutSong": "nefjkfkj"
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=v9jJH-V9oNI",
+      "uploadedBy": {
+        "userId": "vMDULL-",
+        "username": "zeina",
+        "profileImage": "https://fjkdfkjsdfjk"
+      },
+      "id": "HuFBhjs"
+    },
+    {
+      "title": "Hello",
+      "artist": "Adelle",
+      "genre": "Pop",
+      "decade": "20s",
+      "image": "",
+      "attribution": "",
+      "trivia": {
+        "aboutArtist": "hjfgsf",
+        "aboutSong": "nefjkfkj"
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=v9jJH-V9oNI",
+      "uploadedBy": {
+        "userId": "oo-PgOX",
+        "username": "zeina",
+        "profileImage": "https://fjkdfkjsdfjk"
+      },
+      "id": "_MbFMKE"
+    },
+    {
+      "title": "Hello",
+      "artist": "Adelle",
+      "genre": "Pop",
+      "decade": "20s",
+      "image": "",
+      "attribution": "",
+      "trivia": {
+        "aboutArtist": "hjfgsf",
+        "aboutSong": "rngjksngks"
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=v9jJH-V9oNI",
+      "uploadedBy": {
+        "userId": "47TfY71",
+        "username": "zeina",
+        "profileImage": "https://fjkdfkjsdfjk"
+      },
+      "id": "wkxydrS"
+    },
+    {
+      "title": "Hello",
+      "artist": "Adelle",
+      "genre": "Pop",
+      "decade": "20s",
+      "image": "",
+      "attribution": "",
+      "trivia": {
+        "aboutArtist": "ggfdg",
+        "aboutSong": "rngjksngks"
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=v9jJH-V9oNI",
+      "uploadedBy": {
+        "userId": "B3nTSlX",
+        "username": "zeina",
+        "profileImage": "https://fjkdfkjsdfjk"
+      },
+      "id": "Z9Pn6jK"
+    },
+    {
+      "title": "Hello",
+      "artist": "Adelle",
+      "genre": "Pop",
+      "decade": "20s",
+      "image": "",
+      "attribution": "",
+      "trivia": {
+        "aboutArtist": "hjfgsf",
+        "aboutSong": "rngjksngks"
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=v9jJH-V9oNI",
+      "uploadedBy": {
+        "userId": "CloNVvE",
+        "username": "zeina",
+        "profileImage": "https://fjkdfkjsdfjk"
+      },
+      "id": "T1xMMvv"
+    },
+    {
+      "title": "Hello",
+      "artist": "Adelle",
+      "genre": "Pop",
+      "decade": "20s",
+      "image": "",
+      "attribution": "",
+      "trivia": {
+        "aboutArtist": "hjfgsf",
+        "aboutSong": "rngjksngks"
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=v9jJH-V9oNI",
+      "uploadedBy": {
+        "userId": "GjZXFH3",
+        "username": "zeina",
+        "profileImage": "https://fjkdfkjsdfjk"
+      },
+      "id": "e0CwKLM"
+    },
+    {
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "genre": "Pop",
+      "decade": "20s",
+      "image": "",
+      "attribution": "",
+      "trivia": {
+        "aboutArtist": "hjfgsf",
+        "aboutSong": "rngjksngks"
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=PqX8aA6w4bM",
+      "uploadedBy": {
+        "userId": "YARWUw5",
+        "username": "zeina",
+        "profileImage": "https://fjkdfkjsdfjk"
+      },
+      "id": "6SJQUXu"
+    }
   ],
   "users": [
     {
@@ -787,7 +920,10 @@
       "username": "zeina",
       "password": "123456",
       "profileImage": "https://fjkdfkjsdfjk",
-      "favorites": [],
+      "favorites": [
+        "6SJQUXu",
+        "ePBTFzr"
+      ],
       "id": "Ch9N12j"
     },
     {
@@ -809,6 +945,68 @@
         "19",
         "18"
       ]
+    },
+    {
+      "username": "zeina",
+      "password": "123456",
+      "fullname": "zeina zona",
+      "profileImage": "https://fjkdfkjsdfjk",
+      "favorites": [
+        "1",
+        "2",
+        "Tip2ybl"
+      ],
+      "joinedIn": 1718141276604,
+      "id": "vMDULL-"
+    },
+    {
+      "username": "zeina",
+      "password": "123456",
+      "profileImage": "https://fjkdfkjsdfjk",
+      "favorites": [],
+      "id": "oo-PgOX"
+    },
+    {
+      "username": "zeina",
+      "password": "123456",
+      "profileImage": "https://fjkdfkjsdfjk",
+      "favorites": [],
+      "id": "47TfY71"
+    },
+    {
+      "username": "zeina",
+      "password": "123456",
+      "profileImage": "https://fjkdfkjsdfjk",
+      "favorites": [],
+      "id": "B3nTSlX"
+    },
+    {
+      "username": "zeina",
+      "password": "123456",
+      "profileImage": "https://fjkdfkjsdfjk",
+      "favorites": [],
+      "id": "CloNVvE"
+    },
+    {
+      "username": "zeina",
+      "password": "123456",
+      "profileImage": "https://fjkdfkjsdfjk",
+      "favorites": [],
+      "id": "GjZXFH3"
+    },
+    {
+      "username": "zeina",
+      "password": "123456",
+      "profileImage": "https://fjkdfkjsdfjk",
+      "favorites": [],
+      "id": "YvLoZuy"
+    },
+    {
+      "username": "zeina",
+      "password": "123456",
+      "profileImage": "https://fjkdfkjsdfjk",
+      "favorites": [],
+      "id": "YARWUw5"
     }
   ]
 }
