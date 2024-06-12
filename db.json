@@ -760,6 +760,26 @@
         "username": "",
         "profileImage": ""
       }
+    },
+    {
+      "title": "Permission to Dance",
+      "artist": "BTS ",
+      "genre": "Dance-pop",
+      "decade": "20's",
+      "album": "Butter",
+      "image": "https://media.pitchfork.com/photos/60e85113331c9bf60f4b0ebc/4:3/w_1332,h_999,c_limit/BTS.jpg",
+      "attribution": "",
+      "trivia": {
+        "aboutArtist": "BTS holds multiple records, including being the first Korean act to top the Billboard Hot 100 chart with \"Dynamite,\" their first all-English single. They were also the first Korean group to perform at the Grammy Awards.",
+        "aboutSong": "The music video features symbolic elements, such as purple balloons, which are a nod to BTS's fandom color, and the inclusion of diverse people dancing together, highlighting themes of unity and inclusivity."
+      },
+      "videoUrl": "https://www.youtube.com/embed/x4G1VncCWyQ?si=QRBzTH9tEV3TqzUD",
+      "uploadedBy": {
+        "userId": "_3Is841",
+        "username": "Dani",
+        "profileImage": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpghttps://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg"
+      },
+      "id": "n0x7b-R"
     }
   ],
   "users": [
@@ -787,7 +807,15 @@
       "fullname": "Daniela",
       "joinedIn": 1718124636315,
       "profileImage": "https://m.media-amazon.com/images/I/61-ZyevOLIL._AC_UF1000,1000_QL80_.jpg",
-      "password": "12345"
+      "password": "12345",
+      "favorites": [
+        "11",
+        "12",
+        "18",
+        "23",
+        "22",
+        "39"
+      ]
     },
     {
       "username": "zeina",
@@ -812,6 +840,15 @@
         "19",
         "18"
       ]
+    },
+    {
+      "username": "ItCouldBePizza",
+      "password": "12345",
+      "fullname": "Pizza Sir Jackson",
+      "profileImage": "https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
+      "favorites": [],
+      "joinedIn": 1718197689330,
+      "id": "ebYhxuy"
     }
   ]
 }
