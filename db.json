@@ -768,7 +768,7 @@
       "decade": "20's",
       "album": "Butter",
       "image": "https://media.pitchfork.com/photos/60e85113331c9bf60f4b0ebc/4:3/w_1332,h_999,c_limit/BTS.jpg",
-      "attribution": "",
+      "attribution": "BTS, photo courtesy of Big Hit Music",
       "trivia": {
         "aboutArtist": "BTS holds multiple records, including being the first Korean act to top the Billboard Hot 100 chart with \"Dynamite,\" their first all-English single. They were also the first Korean group to perform at the Grammy Awards.",
         "aboutSong": "The music video features symbolic elements, such as purple balloons, which are a nod to BTS's fandom color, and the inclusion of diverse people dancing together, highlighting themes of unity and inclusivity."
@@ -780,6 +780,26 @@
         "profileImage": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpghttps://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg"
       },
       "id": "n0x7b-R"
+    },
+    {
+      "title": "Quem És Tu Miúda?",
+      "artist": "Os Azeitonas",
+      "album": "Rádio Alegria",
+      "genre": "Rock",
+      "decade": "00's",
+      "image": "https://glam-magazine.pt/wp-content/uploads/2018/01/AZ-820x500.jpg",
+      "attribution": "Image credit: Glam Magazine",
+      "trivia": {
+        "aboutArtist": "Os Azeitonas are a popular Portuguese band known for their eclectic style and engaging performances.",
+        "aboutSong": "\"Miúda, Quem És Tu?\" is one of their iconic songs, celebrated for its catchy melody and memorable lyrics."
+      },
+      "videoUrl": "https://www.youtube.com/embed/ioEzEMVXN74?si=WnavNbv6q-GwDwjT",
+      "uploadedBy": {
+        "userId": "NssvNhf",
+        "username": "ddua",
+        "profileImage": "https://m.media-amazon.com/images/I/41zswbskkOL._AC_.jpg"
+      },
+      "id": "rzQzOfn"
     }
   ],
   "users": [
@@ -834,7 +854,6 @@
       "profileImage": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpghttps://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg",
       "id": "_3Is841",
       "favorites": [
-        "1",
         "22",
         "21",
         "19",
@@ -867,6 +886,20 @@
       "favorites": [],
       "joinedIn": 1718196803202,
       "id": "yiDIwi0"
+    },
+    {
+      "username": "ddua",
+      "password": "1234",
+      "fullname": "o grande",
+      "profileImage": "https://m.media-amazon.com/images/I/41zswbskkOL._AC_.jpg",
+      "favorites": [
+        "rzQzOfn",
+        "1",
+        "4",
+        "36"
+      ],
+      "joinedIn": 1718218344071,
+      "id": "NssvNhf"
     }
   ]
 }
